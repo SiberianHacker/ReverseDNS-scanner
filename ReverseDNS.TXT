@@ -1,0 +1,10 @@
+http://23.104.179.142:80/ 404 Not Found
+http://206.81.3.251:80/ Welcome to nginx!
+http://83.219.159.129:80/ RouterOS router configuration page
+http://116.106.110.170:80/ 
+http://120.79.46.63:80/ 没有找到站点
+http://86.122.218.8:80/ 
+http://186.194.84.76:80/ Acceptable Use Policy
+https://www.scican.com/ Canada (Dental)  | Your Infection Control Specialist
+  
+http://193.183.250.103:80/ Welcome to nginx!
